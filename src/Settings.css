@@ -1,0 +1,119 @@
+/* placeholder */
+
+.container{
+  width: 620px;
+  margin: 0 auto;
+  color: #979EA9;
+}
+
+.header{
+  position: relative;
+  width: 100%;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.xButton{
+  position: absolute;
+  top: 10px;
+  right: 0;
+  font-size: 50px;
+}
+
+.content{
+  width: 100%;
+}
+
+.sectionTitleRow{
+  position: relative;
+  float: left;
+  width: 100%;
+  height: 97px;
+}
+
+.sectionTitle{
+  font-size: 20px;
+  position: absolute;
+  bottom: 15px;
+  left: 0;
+}
+
+.questionIcon{
+  font-size: 12px;
+  margin-left: 10px;
+}
+
+.hrBold{
+  float: left;
+  width: 100%;
+  height: 1px;
+  background-color: #D1D4DA;
+}
+
+.hr{
+  float: left;
+  width: 100%;
+  height: 1px;
+  opacity: 0.2;
+  background-color: #979EA9;
+}
+
+.row{
+  float: left;
+  width: 100%;
+  height: 65px;
+}
+
+.rowTitle{
+  float: left;
+  font-size: 16px;
+  margin-left: 10px;
+  line-height: 65px;
+}
+
+.rowError{
+  float: right;
+  margin-right: 80px;
+  font-size: 14px;
+  line-height: 65px;
+  color: #FF3366;
+}
+
+.rowText{
+  float: right;
+  margin-right: 80px;
+  font-size: 14px;
+  line-height: 65px;
+  text-align: right;
+}
+
+.rowButtons{
+  float: right;
+  width: 80px;
+  height: 35px;
+  margin-top: 15px;
+}
+
+.editIcon{
+  float: left;
+  color: white;
+  text-align: center;
+  line-height: 35px;
+  margin-left: 3px;
+  width: 35px;
+  height: 35px;
+  background-color: #979EA9;
+  border-radius: 20px;
+}
+
+.deleteIcon{
+  float: left;
+  color: white;
+  text-align: center;
+  line-height: 35px;
+  margin-left: 3px;
+  width: 35px;
+  height: 35px;
+  background-color: #979EA9;
+  border-radius: 20px;
+}
